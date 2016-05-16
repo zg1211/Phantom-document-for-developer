@@ -13,9 +13,9 @@
 
 ## 相关资料
 
-* [幻腾OAuth认证接入指南](https://github.com/zg1211/Phantom-document-for-developer/blob/master/oauth.pdf)
+* [幻腾OAuth认证接入指南](https://github.com/zg1211/Phantom-document-for-developer/blob/master/oauth.md)
 * [幻腾接口总则](https://github.com/zg1211/Phantom-document-for-developer/blob/master/main.pdf)
-* [幻腾推送服务接入说明](https://github.com/zg1211/Phantom-document-for-developer/blob/master/notification.pdf)
+* [幻腾推送服务接入说明](https://github.com/zg1211/Phantom-document-for-developer/blob/master/notification.md)
 * [Api文档和调试页面](http://huantengsmart.com/doc/api_v1)
 
 

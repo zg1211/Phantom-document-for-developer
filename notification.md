@@ -41,4 +41,4 @@
 **注意：请妥善保存该页的信息。**
 
 ### 4. 使用OAuth
-请看[幻腾OAuth认证接入指南](https://github.com/zg1211/Phantom-document-for-developer/blob/master/oauth.pdf)
+请看[幻腾OAuth认证接入指南](https://github.com/zg1211/Phantom-document-for-developer/blob/master/oauth.md)
