@@ -9,13 +9,13 @@
 
 ## 数据流向示意图
 
-![高级应用数据流向](http://git.huantengsmart.com/zhuguo/opening_document_for_developer/raw/master/images/高级应用数据流向.png)
+![高级应用数据流向](https://github.com/zg1211/Phantom-document-for-developer/blob/master/images/高级应用数据流向.png)
 
 ## 相关资料
 
-* [幻腾OAuth认证接入指南](http://git.huantengsmart.com/zhuguo/opening_document_for_developer/blob/master/幻腾OAuth认证接入指南.md)
-* [幻腾接口总则](https://huantengsmart.com/pdf/main.pdf)
-* [幻腾推送服务接入说明](http://git.huantengsmart.com/zhuguo/opening_document_for_developer/blob/master/幻腾推送服务接入说明.md)
+* [幻腾OAuth认证接入指南](https://github.com/zg1211/Phantom-document-for-developer/blob/master/oauth.pdf)
+* [幻腾接口总则](https://github.com/zg1211/Phantom-document-for-developer/blob/master/main.pdf)
+* [幻腾推送服务接入说明](https://github.com/zg1211/Phantom-document-for-developer/blob/master/notification.pdf)
 * [Api文档和调试页面](http://huantengsmart.com/doc/api_v1)
 
 
@@ -30,7 +30,7 @@ Q: 接口总则太长了,重点是什么?
 	> 请使用“application/vnd.huantengsmart-版本号+json”作为Accept报头的内容。如果未传或传递了不正
 确的Accept报头,服务器将返回HTTP/1.1 406 Not Acceptable. 示例. Accept: application/vnd.huantengsmart-v1+json
 	>
-    
+
 ```
 Q: 我能用RFC2617基本身份认证或者RFC6749中定义的OAuth2这两种身份认证方式么?
 ```

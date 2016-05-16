@@ -3,7 +3,7 @@
 ### 注册第三方应用
 首先，开发者必须拥有一个有效的幻腾帐号，如果您还没有的话，请先[注册](https://huantengsmart.com/users/sign_up)。
 然后，访问[这里](https://huantengsmart.com/oauth2/applications)注册一个第三方应用。
-  
+
   * Name：填写中文英文都可以
   * Redirect URI：填写接收`authorize_code`的回调地址
   * Scopes：填写需要的权限。如需多个权限，请用 **半角空格** 分隔。目前可用的权限有：
